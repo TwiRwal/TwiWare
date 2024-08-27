@@ -5,7 +5,7 @@ TwiWare, is a Roblox CheatWare, That Can Help You Cheat On Roblox By Using Scrip
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/ObfGames/Bladeball-fixed'),true))()
 ```
 #### Supported
-**(Only Supported Bladeball For Now)**
+**[Bladeball V2](https://www.roblox.com/games/13772394625/UPD-Blade-Ball)**
 
 #### More
 * **[Latest Updates](https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/Updates)**
