@@ -5,8 +5,8 @@ TwiWare, is a Roblox CheatWare, That Can Help You Cheat On Roblox By Using Scrip
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/ObfGames/Bladeball-fixed'),true))()
 ```
 #### Supported
-**[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Works**
-**[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: in development**
+- **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Works**
+- **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: in development**
 
 #### More
 * **[Latest Updates](https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/Updates)**
