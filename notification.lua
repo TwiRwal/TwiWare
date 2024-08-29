@@ -1,3 +1,4 @@
+-- Credits Jxereas
 _G.JxereasExistingHooks = _G.JxereasExistingHooks or {}
 if not _G.JxereasExistingHooks.GuiDetectionBypass then
     local CoreGui = game.CoreGui
