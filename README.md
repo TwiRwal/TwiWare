@@ -6,7 +6,6 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExplo
 ```
 #### Supported
 **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Works**
-
 **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: in development**
 
 #### More
