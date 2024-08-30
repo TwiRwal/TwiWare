@@ -13,5 +13,5 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExplo
 * **[Licence](https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/LICENSE)**
 
 #### Credits 
-**TwiRwal - Owner & Scripter
-SumitScripts - Scripter/Helper**
+- **TwiRwal - Owner & Scripter**
+- **SumitScripts - Scripter/Helper**
