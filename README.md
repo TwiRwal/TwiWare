@@ -18,4 +18,4 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExplo
 
 #### Credits 
 - **TwiRwal - Owner & Scripter**
-- **SumitScripts - Scripter/Helper**
+- **SumitScripts - Scripter/Helper/Tester**
