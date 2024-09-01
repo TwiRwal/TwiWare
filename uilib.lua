@@ -120,8 +120,8 @@ local themeStyles = {
     },
     Twiware = {
         SchemeColor = Color3.fromRGB(176, 209, 176),
-        Background = Color3.fromRGB(229, 247, 163),
-        Header = Color3.fromRGB(236, 240, 182),
+        Background = Color3.fromRGB(241, 255, 184),
+        Header = Color3.fromRGB(242, 255, 189),
         TextColor = Color3.fromRGB(235, 235, 235),
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
