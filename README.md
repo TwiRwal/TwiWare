@@ -9,7 +9,7 @@ Developing 2.0.3 Is Comin Soon
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/ObfGames/Bladeball-fixed'),true))()
 ```
 #### Supported
-- **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Works**
+- **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Patched (Working On Soon)**
 - **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: in development**
 
 #### More
