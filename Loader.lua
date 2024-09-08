@@ -21,7 +21,7 @@ game.StarterGui:SetCore("SendNotification", {
 
 --// Gui
 local Library = loadstring(game:HttpGet("https://bitbucket.org/cat__/uis/raw/Loady/Module"), "Twi:3")()
-local Window = Library:Window("TwiWare - v2.0.4", function(Script)
+local Window = Library:Window("TwiWare", function(Script)
         loadstring(game:HttpGet(Script))()
 end)
 
