@@ -1,2 +1,7 @@
--- This Is Where Game Replace Script For Updates
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/ObfGames/Bladeball-fixed'),true))()
+-- Don't Use This Loadstring This is How You Gonna Get Updates Man.
+-- In Development
+getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
+
+    pcall(function()
+        loadstring(game:HttpGet(getgenv().TwiWare))();
+    end)
