@@ -1,4 +1,5 @@
--- Open Sourced Loader (For Skids)
+-- Open Sourced Loader
+-- AutoExecuter
  not game:IsLoaded() then
     game.Loaded:Wait()
 end
