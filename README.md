@@ -6,6 +6,7 @@ Developing 2.0.3 Is Comin Soon
 
 #### Script Use Now!!!
 ```lua
+G.AutoExecuter = false --// True to Auto Execute
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loadstring.lua'),true))()
 ```
 #### Supported
