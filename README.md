@@ -7,7 +7,10 @@ Developing 2.0.3 Is Comin Soon
 #### Script Use Now!!!
 ```lua
 G.AutoExecuter = false --// True to Auto Execute
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loadstring.lua'),true))()
+getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
+    pcall(function()
+        loadstring(game:HttpGet(getgenv().TwiWare))();
+    end)
 ```
 #### Supported
 - **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Patched (Working On Soon)**
