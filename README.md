@@ -6,7 +6,6 @@ Developing 2.0.3 Is Comin Soon
 
 #### Script Use Now!!!
 ```lua
-G.AutoExecuter = false --// True to Auto Execute
 getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
     pcall(function()
         loadstring(game:HttpGet(getgenv().TwiWare))();
