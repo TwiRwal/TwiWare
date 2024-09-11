@@ -3,28 +3,6 @@
  not game:IsLoaded() then
     game.Loaded:Wait()
 end
-
--- AutoExecuter
-if _G.AutoExecuter == true then
-local AutoExeScript = queueonteleport or queue_on_teleport
-if AutoExeScript then
-    AutoExeScript([[
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-repeat wait() until game.Players.LocalPlayer
-wait(0.25)
-_G.AutoExecuter = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua"))()
-    ]])
-else
-game.StarterGui:SetCore("SendNotification", {
-Title = "Auto Execute Error"; 
-Text = "Failed To Auto Execute"; 
-Icon = ""; 
-Duration = 5; 
-})
- 
 --// Notify
 game.StarterGui:SetCore("SendNotification", {
     Title = "TwiWare"; 
