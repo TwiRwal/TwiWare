@@ -1,5 +1,14 @@
--- Open Sourced Loader
--- Auto Loader
+--[[
+▀▀█▀▀ ░█──░█ ▀█▀ ░█──░█ ─█▀▀█ ░█▀▀█ ░█▀▀▀ 
+─░█── ░█░█░█ ░█─ ░█░█░█ ░█▄▄█ ░█▄▄▀ ░█▀▀▀ 
+─░█── ░█▄▀▄█ ▄█▄ ░█▄▀▄█ ░█─░█ ░█─░█ ░█▄▄▄
+
+getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
+    pcall(function()
+        loadstring(game:HttpGet(getgenv().TwiWare))();
+    end)
+]]--
+
  not game:IsLoaded() then
     game.Loaded:Wait()
 end
