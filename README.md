@@ -24,3 +24,6 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Load
 #### Credits 
 - **TwiRwal - Owner & Scripter**
 - **SumitScripts - Scripter/Helper/Tester**
+- **Guis By REDzHUB**
+
+SCP COPYRIGHT ©️ BY TwiRwal (IF YOU GET BAN THATS NOT OUR RESPONSIVE FOR THAT)
