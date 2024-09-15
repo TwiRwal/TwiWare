@@ -26,4 +26,4 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Load
 - **SumitScripts - Scripter/Helper/Tester**
 - **Guis By REDzHUB**
 
- - (IF YOU GET BAN THATS NOT OUR RESPONSIVE FOR THAT)
+(IF YOU GET BAN THATS NOT OUR RESPONSIVE FOR THAT)
