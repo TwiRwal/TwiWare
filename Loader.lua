@@ -15,9 +15,22 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Load
     end)
 ]]--
 
- not game:IsLoaded() then
+--// Anti Kick Idle
+not game:IsLoaded() then
     game.Loaded:Wait()
 end
+
+task.spawn(function()
+    if not getgenv().AntiAfk == true then
+        while true do task.wait(1100);
+            pcall(function()
+                game:GetService("VirtualInputManager"):SendKeyEvent(true,"RightBracket",false,game);
+            end)
+        end
+        getgenv().AntiAfk = true;
+    end
+end)
+
 --// Notify
 game.StarterGui:SetCore("SendNotification", {
     Title = "TwiWare"; 
@@ -25,8 +38,6 @@ game.StarterGui:SetCore("SendNotification", {
     Icon = ""; 
     Duration = 5;
     Callback = bindableFunction;
-    Button1 = "Cool";  
-    Button2 = "";
 })
 game.StarterGui:SetCore("SendNotification", {
     Title = "TwiWare"; 
