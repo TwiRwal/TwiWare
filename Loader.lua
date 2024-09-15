@@ -3,6 +3,12 @@
 ─░█── ░█░█░█ ░█─ ░█░█░█ ░█▄▄█ ░█▄▄▀ ░█▀▀▀ 
 ─░█── ░█▄▀▄█ ▄█▄ ░█▄▀▄█ ░█─░█ ░█─░█ ░█▄▄▄
 
+Credits:
+Made By: TwiRwal
+Helper: SumitScripts
+UI Library: REDzHUB
+
+Loadstring:
 getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Loader.lua";
     pcall(function()
         loadstring(game:HttpGet(getgenv().TwiWare))();
@@ -32,10 +38,9 @@ game.StarterGui:SetCore("SendNotification", {
 
 --// Gui
 local Library = loadstring(game:HttpGet("https://bitbucket.org/cat__/uis/raw/Loady/Module"), "Twi:3")()
-local Window = Library:Window("TwiWare", function(Script)
+local Window = Library:Window("TwiWare / 2.0.3", function(Script)
         loadstring(game:HttpGet(Script))()
 end)
-
 Window:Game({
    Place = 13772394625,
    Status = "Patched (Working On It)",
@@ -43,7 +48,6 @@ Window:Game({
    UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "TwiRwal And SumitScripts"
 })
-
 Window:Game({
    Place = 10449761463,
    Status = "Working + Updated",
