@@ -56,12 +56,19 @@ Window:Game({
    Place = 13772394625,
    Status = "Patched (Working On It)",
    Script = "https://raw.githubusercontent.com/TwiWare/TwiWareExploits/main/ObfGames/Bladeball-fixed",
-   UpdateDate = Window:GetDate("Local", "3/13/24"),
+   UpdateDate = Window:GetDate("Local", "0/0/0"),
+   Creator = "TwiRwal And SumitScripts"
+})
+Window:Game({
+   Place = 18999776880,
+   Status = "Working + New",
+   Script = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Releases/Games/Better-Music.lua",
+   UpdateDate = Window:GetDate("Local", "9/16/24"),
    Creator = "TwiRwal And SumitScripts"
 })
 Window:Game({
    Place = 10449761463,
-   Status = "Working + Updated",
+   Status = "devment + Updated",
    Script = "",
    UpdateDate = Window:GetDate("Local", "3/13/24"),
    Creator = "TwiRwal And SumitScripts"
