@@ -15,6 +15,7 @@ getgenv().TwiWare = "https://raw.githubusercontent.com/TwiRwal/TwiWare/main/Load
 ```
 #### Supported
 - **[Bladeball](https://www.roblox.com/games/13772394625/UPD-Blade-Ball) Status: Patched (In Development)**
+- **[Better Music?](https://www.roblox.com/games/18999776880/Better-Music) Status: Working**
 - **[The Strongest battlegrounds](https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds) Status: in development**
 
 #### More
