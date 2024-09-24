@@ -75,3 +75,6 @@ Window:Game({
 })
 
 Window:Initiate()
+
+else
+warn'your executor or device is suck unable to load the loader'
